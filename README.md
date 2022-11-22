@@ -12,3 +12,9 @@ Steps involved:
 * Choose suitable forecasting model for the dataset.
 * Fit the model to dataset and make predictions.
 * Visualize the predictions.
+
+Requirements:
+
+* Python
+* Jupyter Notebook
+* Google Colab
