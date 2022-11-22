@@ -18,3 +18,11 @@ Requirements:
 * Python
 * Jupyter Notebook
 * Google Colab
+
+Libraries Used:
+
+* Pandas
+* NumPy
+* MatPlotlib
+* Seaborn
+* Statsmodel
